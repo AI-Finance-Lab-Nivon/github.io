@@ -1,0 +1,10 @@
+{
+  "provider": "github-pages",
+  "owner": "AI-Finance-Lab-Nivon",
+  "repository": "github.io",
+  "branch": "main",
+  "siteUrl": "https://ai-finance-lab-nivon.github.io/github.io/",
+  "basePath": "",
+  "contentSource": "data/articles.json",
+  "reviewRequired": true
+}

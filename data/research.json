@@ -1,0 +1,23 @@
+[
+  {
+    "id": "nivon-research-1",
+    "title": "Auditable Research Agent",
+    "type": "Prototype",
+    "summary": "A staged pipeline with source capture, claim checks and mandatory review gates.",
+    "status": "v0.4"
+  },
+  {
+    "id": "nivon-research-2",
+    "title": "Financial News Context Engine",
+    "type": "Experiment",
+    "summary": "Event clustering and impact mapping without synthetic price forecasts.",
+    "status": "Lab note"
+  },
+  {
+    "id": "nivon-research-3",
+    "title": "Model Risk Checklist",
+    "type": "Open framework",
+    "summary": "Tests for leakage, hallucination, prompt sensitivity and data staleness.",
+    "status": "18 controls"
+  }
+]

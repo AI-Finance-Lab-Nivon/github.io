@@ -1,0 +1,90 @@
+[
+  {
+    "id": "agent-research",
+    "title": "Building a Financial Research Agent You Can Audit",
+    "category": "AI Research",
+    "summary": "A source-first workflow that separates retrieval, reasoning, calculation and human approval.",
+    "readTime": "9 min",
+    "date": "2026-08-09",
+    "tags": [
+      "Agents",
+      "Research"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "A useful financial research agent is not defined by how much it can automate. It is defined by whether a reviewer can trace every material claim back to evidence, reproduce calculations and see where judgment entered the process.",
+      "heading1": "Start with the decision",
+      "section1": "The useful question is not whether a topic sounds important, but what decision it changes. A source-first workflow that separates retrieval, reasoning, calculation and human approval. The analysis should make assumptions visible and keep evidence separate from interpretation.",
+      "quote": "Clarity improves when the method is visible and the limits are stated before the conclusion.",
+      "heading2": "A repeatable framework",
+      "section2": "Use a three-part review: define the claim, identify the evidence that would change it, and record the action threshold. Store citations beside claims, keep calculations reproducible and require explicit approval before an output becomes a published conclusion.",
+      "close": "Automation should shorten the path to scrutiny, not remove the reviewer from it."
+    }
+  },
+  {
+    "id": "news-signal",
+    "title": "From News Stream to Decision Context",
+    "category": "Market Intelligence",
+    "summary": "How language models can organize events without pretending every headline is a trading signal.",
+    "readTime": "7 min",
+    "date": "2026-07-31",
+    "tags": [
+      "NLP",
+      "Markets"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "Financial news becomes useful only after it is connected to an exposure, a time horizon and a mechanism. Language models can help organize that context, but they should not turn every new headline into an implied trade.",
+      "heading1": "Build the right mental model",
+      "section1": "The useful question is not whether a topic sounds important, but what decision it changes. How language models can organize events without pretending every headline is a trading signal. The analysis should make assumptions visible and keep evidence separate from interpretation.",
+      "quote": "Clarity improves when the method is visible and the limits are stated before the conclusion.",
+      "heading2": "What to check next",
+      "section2": "Group related reports into events, distinguish primary reporting from commentary and map each event to the variables it could affect. Then test whether the information is new, material and relevant to the decision horizon before assigning importance.",
+      "close": "The goal is decision context: what changed, why it matters and what evidence would confirm or weaken the interpretation."
+    }
+  },
+  {
+    "id": "backtest-traps",
+    "title": "Three Ways AI Makes a Backtest Look Smarter Than It Is",
+    "category": "Quant Methods",
+    "summary": "Leakage, selection and narrative overfit—plus the controls that expose them.",
+    "readTime": "8 min",
+    "date": "2026-07-21",
+    "tags": [
+      "Quant",
+      "Validation"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "AI can generate strategies, features and explanations faster than a conventional research loop. That speed also makes it easier to hide leakage, selection bias and narrative overfit behind a polished result.",
+      "heading1": "Start with the decision",
+      "section1": "The useful question is not whether a topic sounds important, but what decision it changes. Leakage, selection and narrative overfit—plus the controls that expose them. The analysis should make assumptions visible and keep evidence separate from interpretation.",
+      "quote": "Clarity improves when the method is visible and the limits are stated before the conclusion.",
+      "heading2": "A repeatable framework",
+      "section2": "Freeze the information set available at each timestamp, separate exploration from final evaluation and retain every tested variant. A credible result should survive out-of-sample testing, realistic costs and sensitivity checks without depending on a single favorable period.",
+      "close": "A backtest is evidence about a process under stated assumptions, not proof that the future will repeat the past."
+    }
+  },
+  {
+    "id": "automation-boundary",
+    "title": "The Right Boundary Between Automation and Approval",
+    "category": "Workflow",
+    "summary": "A practical control map for research, portfolio analysis and publishing systems.",
+    "readTime": "6 min",
+    "date": "2026-07-08",
+    "tags": [
+      "Automation",
+      "Governance"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "The strongest automation systems are designed around boundaries. They accelerate routine collection and checking while reserving consequential judgments, exceptions and publication decisions for accountable human review.",
+      "heading1": "Build the right mental model",
+      "section1": "The useful question is not whether a topic sounds important, but what decision it changes. A practical control map for research, portfolio analysis and publishing systems. The analysis should make assumptions visible and keep evidence separate from interpretation.",
+      "quote": "Clarity improves when the method is visible and the limits are stated before the conclusion.",
+      "heading2": "What to check next",
+      "section2": "Classify actions by reversibility, financial impact and uncertainty. Low-risk transformations can run automatically; ambiguous claims, model changes and external publication should create review checkpoints with the evidence and assumptions attached.",
+      "close": "A good control boundary lets automation move quickly while keeping responsibility visible."
+    }
+  }
+]

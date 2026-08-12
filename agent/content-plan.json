@@ -1,0 +1,47 @@
+{
+  "cadence": "2 articles and 1 research note per month",
+  "lanes": [
+    {
+      "topic": "AI Research Tools",
+      "priority": 1,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Market Intelligence",
+      "priority": 2,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Automation",
+      "priority": 3,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Future Finance",
+      "priority": 4,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    }
+  ],
+  "workflow": [
+    "draft",
+    "source check",
+    "human review",
+    "publish"
+  ]
+}

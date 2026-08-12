@@ -1,0 +1,18 @@
+{
+  "slug": "nivon",
+  "name": "Nivon",
+  "role": "AI Finance Creator",
+  "brand": "AI Finance Lab",
+  "school": "Nova School of Business and Economics",
+  "major": "Finance · Economics · Business Analytics",
+  "bio": "Nivon explores the integration of AI and finance through market analysis, intelligent research tools, automated trading, financial-news interpretation and emerging fintech—always asking where AI genuinely improves investment decisions and efficiency.",
+  "avatar": "assets/avatar.png",
+  "topics": [
+    "AI Research Tools",
+    "Market Intelligence",
+    "Automation",
+    "Future Finance"
+  ],
+  "language": "en",
+  "disclaimer": "Educational content only; not investment advice."
+}
