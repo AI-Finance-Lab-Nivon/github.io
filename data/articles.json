@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-to-analyze-ai-infrastructure-financing-with-ai-tools-a-risk-first-workflow",
+    "title": "How to Analyze AI Infrastructure Financing With AI Tools: A Risk-First Workflow",
+    "category": "Article",
+    "summary": "Hello, I'm Nivon. AI infrastructure financing should be analyzed as a chain of operating demand, capital commitments, funding structure, and downside risk—not as a headline about a large dollar amount. Axios reported on…",
+    "readTime": "2 min",
+    "date": "2026-08-18",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I'm Nivon. AI infrastructure financing should be analyzed as a chain of operating demand, capital commitments, funding structure, and downside risk—not as a headline about a large dollar amount. Axios reported on August 10, 2026 that Nvidia and several major Wall Street firms were collaborating on more than $500 billion of financing for AI infrastructure. For investors and researchers, the right use of AI is to accelerate document review and scenario comparison while keeping source verification, risk limits, and final judgments under human control.",
+      "heading1": "What does a large AI infrastructure financing package actually signal?",
+      "section1": "It signals that the AI buildout is reaching beyond chip purchases into data centers, power systems, networking, and long-duration capital. The reported financing group includes Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR. Scale alone does not prove an investment is attractive: it can reflect real demand and capacity constraints, but it can also increase exposure to refinancing costs, project execution, and dependency among suppliers, infrastructure operators, and customers. An analysis should therefore separate announced financing capacity from funded projects, contracted revenue, and realized cash flow.",
+      "quote": "",
+      "heading2": "How can an AI research assistant improve the analysis without replacing it?",
+      "section2": "An AI assistant can build a faster, more auditable research workflow when it is used to extract primary-source facts from filings, earnings calls, investor presentations, and debt documents. Ask it to create a source ledger, identify capital-expenditure guidance, compare data-center utilization and backlog language, flag lease and debt commitments, and list claims that need human verification. Then test each conclusion against the original document. This approach turns AI from a prediction machine into an efficiency tool for structured financial due diligence.</p><p><img src=\"assets/github-how-to-analyze-ai-infrastructure-financing-with-ai-tools-a-risk-first-workflow-1.png\" alt=\"\" loading=\"lazy\"></p><p><strong>Which risks deserve a dedicated downside scenario?</strong></p><p>Start with demand falling short of planned compute capacity, delayed power availability, higher interest expense, customer concentration, and financing that becomes circular when suppliers, funders, and customers depend on one another. Axios specifically noted concern that trouble at one major company could ripple through the AI ecosystem. A practical scenario test can lower utilization, delay project completion, reduce pricing power, and raise the cost of debt at the same time. The final decision should document what evidence would confirm or weaken the investment thesis, rather than relying on an AI-generated recommendation or a short-term market reaction.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "the-2026-ai-investment-boom-a-practical-ai-assisted-framework-for-testing-the-60",
     "title": "The 2026 AI Investment Boom: A Practical AI-Assisted Framework for Testing the $600 Billion Narrative",
     "category": "Article",
