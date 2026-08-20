@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-to-analyze-an-ai-stock-selloff-with-human-supervised-ai-research",
+    "title": "How to Analyze an AI Stock Selloff With Human-Supervised AI Research",
+    "category": "Article",
+    "summary": "Hello, I am Nivon. The useful response to an AI-stock selloff is not to ask an AI tool for a price prediction. It is to separate valuation risk, AI infrastructure demand, and interest-rate pressure, then require a human…",
+    "readTime": "3 min",
+    "date": "2026-08-20",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Nivon. The useful response to an AI-stock selloff is not to ask an AI tool for a price prediction. It is to separate valuation risk, AI infrastructure demand, and interest-rate pressure, then require a human to approve any conclusion. On August 18, 2026, AP reported that AI-linked shares led a broader market decline as investors questioned both elevated prices and whether data-center demand can remain as profitable as expected.",
+      "heading1": "Why did AI stocks fall while AI infrastructure demand remained strong?",
+      "section1": "The immediate issue was a collision of expectations and discount rates. AP reported that Micron fell 7%, Nvidia fell 2.3%, and Broadcom fell 3.2%, while the Nasdaq composite fell 1.3%. Investors were reassessing whether the demand for memory, processors, and other data-center inputs can justify lofty valuations. At the same time, the 10-year U.S. Treasury yield was 4.70%, well above its 3.97% level before the Iran war began. Higher yields make future earnings less valuable in present-value terms, which can put extra pressure on expensive growth stocks.",
+      "quote": "",
+      "heading2": "What should an AI market-research workflow verify first?",
+      "section2": "Start with an evidence chain rather than a market narrative. An AI research system can collect company filings, earnings guidance, chip and memory demand signals, data-center construction plans, power availability, and Treasury-yield changes into separate modules. It should then test a simple downside case: weaker infrastructure demand, a lower revenue multiple, or persistently high long-term yields. The output should distinguish verified facts from assumptions and identify which assumption has the largest effect on the investment thesis.</p><p><img src=\"assets/github-how-to-analyze-an-ai-stock-selloff-with-human-supervised-ai-research-1.png\" alt=\"\" loading=\"lazy\"></p><p><strong>Where should human judgment override the model?</strong></p><p>Human review is essential when the tool converts uncertain information into a recommendation. A reviewer should confirm source provenance, check whether a reported project has financing, power supply, and an end customer, and decide whether the scenario assumptions are reasonable. AI is effective for extracting, comparing, and monitoring evidence, but it should not conceal uncertainty or place an order. A disciplined workflow ends with a documented human decision, position-size limits, and a plan for what evidence would invalidate the original view.</p><p><strong>What is the practical lesson for investors using AI tools?</strong></p><p>Treat an AI stock selloff as a research prompt, not a signal to chase or flee. Use automation to reduce manual work, track the connection between infrastructure spending and operating results, and stress-test valuation against bond yields. Keep the final decision tied to risk tolerance, diversification, and evidence that can be checked later. That approach makes AI a tool for clearer financial reasoning rather than a substitute for it.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-to-use-ai-research-workflows-to-evaluate-ai-data-center-financing-risk",
     "title": "How to Use AI Research Workflows to Evaluate AI Data Center Financing Risk",
     "category": "Article",
