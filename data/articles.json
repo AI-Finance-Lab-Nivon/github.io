@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-to-use-ai-research-workflows-to-evaluate-ai-data-center-financing-risk",
+    "title": "How to Use AI Research Workflows to Evaluate AI Data Center Financing Risk",
+    "category": "Article",
+    "summary": "AI-assisted market research is most useful for evaluating AI infrastructure when it turns a complex announcement into a traceable evidence workflow, not when it produces a stand-alone investment verdict. Axios reported…",
+    "readTime": "2 min",
+    "date": "2026-08-20",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "AI-assisted market research is most useful for evaluating AI infrastructure when it turns a complex announcement into a traceable evidence workflow, not when it produces a stand-alone investment verdict. Axios reported on August 17, 2026 that OpenAI announced a 20-year lease for a central Ohio data center to be built and owned by SB Energy, with Nvidia guaranteeing up to $105 billion in conditional lease and power-payment obligations. The central task is to separate operating demand, energy requirements, contractual commitments, and financing exposure before forming a view.",
+      "heading1": "What does the Ohio AI data center project reveal about infrastructure risk?",
+      "section1": "The reported project illustrates how large the links between computing and physical infrastructure have become. Axios said the facility is planned for 8 IT-gigawatts of computing capacity supported by 10 gigawatts of new energy generation, with initial capacity expected in 2028. Those figures are not merely technology metrics: they create questions about construction execution, power availability, customer demand over a long lease term, and which party carries each payment obligation. An investor should read the financing structure alongside the capacity target.",
+      "quote": "",
+      "heading2": "How should an AI research workflow analyze the financing structure?",
+      "section2": "Start with primary documents and build a source ledger that distinguishes company statements, regulatory filings, and third-party reporting. Then extract four linked layers: the asset owner and operator, the lease payer, any guarantee provider, and the conditions that trigger payments. A useful AI workflow can compare dates, obligations, energy plans, and counterparty relationships across documents, flag inconsistencies, and create a downside checklist. It should also preserve links to the original evidence so that each extracted claim can be reviewed rather than treated as an unsupported model conclusion.</p><p><img src=\"assets/github-how-to-use-ai-research-workflows-to-evaluate-ai-data-center-financing-risk-1.png\" alt=\"\" loading=\"lazy\"></p><p><strong>Where must human judgment remain in AI infrastructure analysis?</strong></p><p>Human review is essential when translating verified facts into a risk decision. The Ohio announcement itself noted concerns about circular AI financing, while the reported structure includes a chip supplier, an AI customer, an infrastructure owner, and long-term power commitments. Analysts should test scenarios such as delayed capacity delivery, lower utilization, higher power costs, refinancing pressure, or a weaker counterparty. AI can make the research faster and more reproducible; a human decision maker must still judge assumptions, concentration risk, valuation, and whether the evidence supports an investment thesis.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-to-analyze-ai-infrastructure-financing-with-ai-tools-a-risk-first-workflow",
     "title": "How to Analyze AI Infrastructure Financing With AI Tools: A Risk-First Workflow",
     "category": "Article",
