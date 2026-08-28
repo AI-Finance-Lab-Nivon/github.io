@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-financial-advisors-can-use-ai-safely-start-with-workflow-automation-not-inve",
+    "title": "How Financial Advisors Can Use AI Safely: Start With Workflow Automation, Not Investment Decisions",
+    "category": "Article",
+    "summary": "Hello, I am Nivon. The most practical way for a financial advisor to adopt AI is to automate low-risk operational work first, then keep human judgment, source review, and client accountability at the center of every…",
+    "readTime": "3 min",
+    "date": "2026-08-28",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Nivon. The most practical way for a financial advisor to adopt AI is to automate low-risk operational work first, then keep human judgment, source review, and client accountability at the center of every recommendation. CFP Board's August 12, 2026 guidance points to meeting preparation, note taking, follow-up, and reminders as useful starting points because they can free advisor time without handing investment or planning decisions to a model.</p><p><img src=\"assets/github-how-financial-advisors-can-use-ai-safely-start-with-workflow-automation-not-inve-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "Which AI tasks should financial advisors automate first?",
+      "section1": "Start with repeatable tasks around the client meeting: prepare an agenda from approved records, summarize discussion notes, extract action items, identify known deadlines, create reminders, and draft a follow-up for human review. CFP Board describes a small-firm example involving annual federal student-loan income recertification, where an AI tool helped turn consented meeting notes into action items, deadline tracking, and follow-up tasks. This is a sound automation pattern: use AI to organize the workflow, not to make the final financial judgment.",
+      "quote": "",
+      "heading2": "Can AI be trusted to give financial advice on its own?",
+      "section2": "No. An AI system can be a useful research and writing assistant, but it is not a substitute for fiduciary review. Models can produce inaccurate claims, omit relevant client facts, or make a persuasive answer sound more certain than the underlying evidence supports. Before an advisor shares AI-assisted material, they should verify the source information, test calculations where relevant, apply the firm's compliance process, and ensure the final advice reflects the client's complete circumstances.</p><p><strong>What controls make an AI finance workflow safer?</strong></p><p>Use a defined control sequence: obtain client consent before using AI in meetings; use compliance-approved tools; limit inputs to the information needed; protect client data; preserve the source documents used for review; and require a named advisor to approve every client-facing output. A helpful prompt can ask the tool to identify missing facts or questions before drafting an answer, but that prompt is a quality check, not a transfer of responsibility.</p><p><strong>How does AI improve financial-planning efficiency without reducing trust?</strong></p><p>AI creates value when it removes administrative friction and gives advisors more time for discovery, explanation, trade-off analysis, and client relationships. It can also support more tailored service by helping an advisor retrieve approved internal information and spot follow-up opportunities. The durable advantage is not merely faster document production; it is a better operating system in which automation handles routine process work while the advisor supplies context, empathy, and accountable judgment.</p><p><strong>The practical next step for an AI-enabled advisory practice</strong></p><p>Choose one high-volume, low-risk workflow and run a short, supervised pilot. Measure time saved, error rates, review burden, client experience, and data-handling compliance. Keep investment recommendations and consequential planning decisions behind a human approval gate. This approach turns AI from a vague productivity promise into a controlled financial-efficiency tool that can strengthen, rather than dilute, client trust.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "ai-investing-tools-for-market-analysis-how-to-read-the-broadening-ai-trade-in-20",
     "title": "AI Investing Tools for Market Analysis: How to Read the Broadening AI Trade in 2026",
     "category": "Article",
