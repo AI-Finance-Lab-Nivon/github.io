@@ -1,5 +1,26 @@
 [
   {
+    "id": "ai-financial-advice-where-ai-helps-investors-and-where-human-judgment-still-matt",
+    "title": "AI Financial Advice: Where AI Helps Investors and Where Human Judgment Still Matters",
+    "category": "Article",
+    "summary": "Hello, I am Nivon. AI financial advice is most useful as an education, organization, and research assistant, not as an autonomous decision-maker for consequential money moves. It can explain concepts, structure…",
+    "readTime": "3 min",
+    "date": "2026-08-31",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Nivon. AI financial advice is most useful as an education, organization, and research assistant, not as an autonomous decision-maker for consequential money moves. It can explain concepts, structure information, and surface questions quickly, but investors should verify outputs and add human context before acting on decisions involving retirement, taxes, insurance, estate planning, or a major portfolio change.",
+      "heading1": "What can AI financial advice do well today?",
+      "section1": "AI tools are strong at repeatable, information-heavy tasks. They can translate investing terms into plain English, compare general features of account types, summarize market commentary, categorize spending, flag unusual activity, and help prepare questions for an adviser. Kiplinger reported on August 20, 2026 that a NerdWallet survey found 43% of Americans had used AI for personal financial planning. That adoption reflects a practical advantage: a well-prompted assistant is available on demand and can make financial education less intimidating.",
+      "quote": "",
+      "heading2": "Why is AI not a substitute for personalized investment advice?",
+      "section2": "A convincing answer is not necessarily a suitable recommendation. An AI system may not know the personal facts that change a decision: a pension, a business partner's plans, caregiving duties, health costs, tax position, or the emotional pressure behind a sell decision. Two investors can have similar account balances and entirely different needs for liquidity, risk, income, and protection. AI can organize the scenarios, but a person remains responsible for judging which assumptions are complete and which trade-offs are acceptable.</p><p><strong>How should investors use AI safely in a market-analysis workflow?</strong></p><p>Use AI in a controlled sequence. First, ask it to summarize a filing, earnings call, economic release, or market news item and identify the original sources. Second, ask for competing explanations and the assumptions behind each conclusion. Third, compare its summary with primary documents and trusted market data. Finally, record what would disprove the thesis before any trade or allocation change. This turns AI from a source of instant certainty into a research tool that improves speed, traceability, and financial literacy.</p><p><img src=\"assets/github-ai-financial-advice-where-ai-helps-investors-and-where-human-judgment-still-matt-1.png\" alt=\"\" loading=\"lazy\"></p><p><strong>Which decisions deserve an escalation rule?</strong></p><p>Set a clear escalation rule: pause and seek qualified human review when an AI output could cause a large transfer of money, a change to retirement timing or withdrawals, a tax filing position, a legal document, insurance coverage, or concentrated investment exposure. The same rule applies when the tool cannot cite current sources, when inputs include sensitive account data, or when its recommendation depends on forecasts rather than verified facts. Automation should reduce administrative friction, not remove accountability.</p><p><strong>The practical conclusion for AI-assisted investing</strong></p><p>The durable advantage of AI in finance is better preparation, not blind delegation. Let it help you learn, monitor, summarize, and build a repeatable research checklist. Keep final decisions anchored to verified data, your actual objectives and constraints, and appropriate professional judgment. Investors who combine AI efficiency with disciplined oversight are better positioned to use new financial tools without confusing fast answers with sound advice.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-financial-advisors-can-use-ai-safely-start-with-workflow-automation-not-inve",
     "title": "How Financial Advisors Can Use AI Safely: Start With Workflow Automation, Not Investment Decisions",
     "category": "Article",
