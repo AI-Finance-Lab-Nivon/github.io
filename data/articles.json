@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-ai-investors-can-analyze-big-tech-s-hidden-infrastructure-commitments",
+    "title": "How AI Investors Can Analyze Big Tech's Hidden Infrastructure Commitments",
+    "category": "Article",
+    "summary": "Hello, I'm Nivon. The key lesson for AI-focused investors is that headline capital expenditure does not fully describe Big Tech's financial exposure to the AI buildout. Market analysis should combine reported debt and…",
+    "readTime": "3 min",
+    "date": "2026-09-02",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I'm Nivon. The key lesson for AI-focused investors is that headline capital expenditure does not fully describe Big Tech's financial exposure to the AI buildout. Market analysis should combine reported debt and lease obligations with off-balance-sheet commitments, then test whether future cash flow, utilization, and AI revenue can support the total funding burden.",
+      "heading1": "What does the latest AI spending analysis reveal?",
+      "section1": "An August 27, 2026 Axios report, citing a Morgan Stanley analysis, says seven large technology companies including Google, Microsoft, Nvidia, Meta, Oracle, Amazon, and Broadcom have committed roughly $1.4 trillion to AI-related infrastructure through off-balance-sheet commitments. The analysis also points to an estimated $770 billion of debt and lease obligations already on their balance sheets. These commitments can be economically meaningful even when they are not reported as conventional debt.</p><p><strong>Why should investors look beyond reported AI capital expenditure?</p><p>Reported capex tells investors how much a company spent in a period, but it may not capture future payments promised for data centers, chips, power, cloud capacity, or related infrastructure. A stronger AI investment workflow separates current spending from contractual commitments and asks three practical questions: when payments are due, what asset or service they secure, and what revenue or cost savings must arrive for the commitment to earn an adequate return.</p><p><img src=\"assets/github-how-ai-investors-can-analyze-big-tech-s-hidden-infrastructure-commitments-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "How can AI-assisted market analysis make this research more reliable?",
+      "section2": "Use an AI research tool to extract commitments, lease disclosures, debt maturities, guidance, and management commentary from filings and earnings transcripts into a single review sheet. Then verify every material figure against the primary document. The useful output is not a trading signal; it is a structured comparison of funding, demand evidence, capacity constraints, and execution risk across companies. AI can accelerate document review, but it should not replace judgment about accounting treatment, competitive position, or valuation.</p><p><strong>Which indicators matter most for the AI infrastructure trade?</strong></p><p>Track operating cash flow, free cash flow after investment, data-center revenue growth, utilization indicators, lease and purchase commitments, financing terms, and changes in guidance. Nvidia's latest results illustrate why the distinction matters: strong demand can validate infrastructure spending, while supply constraints and growing commitments can still affect margins and risk. Comparing these indicators over several quarters is more informative than reacting to one earnings headline.</p><p><strong>What is the practical next step for investors and analysts?</strong></p><p>Build a repeatable AI infrastructure scorecard for each company: reported capex, off-balance-sheet obligations, balance-sheet financing, expected capacity, evidence of monetization, and downside assumptions. Review it after each earnings release and flag changes rather than relying on an AI summary alone. This approach turns a fast-moving AI narrative into an auditable financial decision process and helps distinguish growth funded by durable cash generation from growth dependent on increasingly complex commitments.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-ai-financial-advice-tools-improve-market-analysis-without-replacing-human-ju",
     "title": "How AI Financial Advice Tools Improve Market Analysis Without Replacing Human Judgment",
     "category": "Article",
