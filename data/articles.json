@@ -1,5 +1,26 @@
 [
   {
+    "id": "assetmark-talk-tracks-what-ai-powered-portfolio-briefing-means-for-financial-adv",
+    "title": "AssetMark Talk Tracks: What AI-Powered Portfolio Briefing Means for Financial Advisors",
+    "category": "Article",
+    "summary": "AssetMark's new Talk Tracks feature shows where AI can create practical value in wealth management: it turns portfolio data, market context, performance activity and relevant news into advisor-reviewed talking points…",
+    "readTime": "3 min",
+    "date": "2026-09-03",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "AssetMark's new Talk Tracks feature shows where AI can create practical value in wealth management: it turns portfolio data, market context, performance activity and relevant news into advisor-reviewed talking points. Announced on August 26, 2026, the capability is designed to shorten meeting preparation while keeping the advisor responsible for interpretation, suitability and the final client conversation. For firms evaluating AI investment tools, that human-in-the-loop design is more useful than a generic chatbot that produces ungrounded market commentary.</p><p><img src=\"assets/github-assetmark-talk-tracks-what-ai-powered-portfolio-briefing-means-for-financial-adv-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "What does AssetMark Talk Tracks do?",
+      "section1": "Talk Tracks is available in the AssetMark Advisor Portal as a side panel. According to AssetMark, it can generate portfolio snapshot summaries, macro and market context related to holdings, sector-level explanations, and tax-savings insights for accounts using Tax Management Services. The important operational idea is not automated investment advice or trade execution. It is workflow assistance: consolidating information an advisor would otherwise collect from several sources before a client meeting.",
+      "quote": "",
+      "heading2": "Why is an embedded AI workflow more valuable than a standalone finance chatbot?",
+      "section2": "An embedded tool can work from the portfolio and account context already used by the advisor, which makes it better suited to preparation than a broad prompt with incomplete inputs. AssetMark said more than 100 advisors participated in product testing. In its directional survey of 107 advisors at the 2026 Gold Forum, 94% said AI could reduce client-meeting preparation time, while 65% were not using AI consistently in an embedded workflow. Those figures suggest that adoption depends less on excitement about AI and more on whether the tool fits a repeatable, auditable task.</p><p><strong>How should advisors evaluate AI-generated market and portfolio commentary?</strong></p><p>Use AI output as a first draft, not a recommendation. Check every material claim against current market data and approved research; verify that holdings, account restrictions, tax assumptions and client objectives are complete; then document the advisor's reasoning before sharing a conclusion. A strong evaluation also tests failure cases, including stale data, missing positions, overconfident explanations and summaries that blur fact with inference. This approach keeps AI focused on financial efficiency while preserving professional judgment and compliance controls.</p><p><strong>The practical takeaway for AI-assisted financial analysis</strong></p><p>The next useful AI finance tools will likely be narrow systems connected to trusted data and a clear decision workflow. AssetMark Talk Tracks is an example of that direction: automate information assembly, surface relevant context and leave the advisor accountable for the decision. Teams considering similar tools should begin with one measurable use case, such as pre-meeting portfolio briefs, track time saved and review quality, and expand only after governance and data checks are working reliably.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-ai-investors-can-analyze-big-tech-s-hidden-infrastructure-commitments",
     "title": "How AI Investors Can Analyze Big Tech's Hidden Infrastructure Commitments",
     "category": "Article",
