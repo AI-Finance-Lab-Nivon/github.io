@@ -1,5 +1,26 @@
 [
   {
+    "id": "ai-wealth-management-for-financial-advisors-what-agentic-workflows-can-automate",
+    "title": "AI Wealth Management for Financial Advisors: What Agentic Workflows Can Automate, and What Must Stay Human",
+    "category": "Article",
+    "summary": "AI wealth management is becoming most useful when it removes operational friction while keeping advisers accountable for client decisions. Accenture's September 11, 2026 announcement of Trusted Wealth Ops illustrates the…",
+    "readTime": "3 min",
+    "date": "2026-09-14",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "<strong>AI wealth management is becoming most useful when it removes operational friction while keeping advisers accountable for client decisions.</strong> Accenture's September 11, 2026 announcement of Trusted Wealth Ops illustrates the model: Salesforce supplies governed data and execution, Claude supplies reasoning, and adviser and compliance teams retain control over consequential actions. For firms assessing AI investment tools, the practical question is no longer whether an assistant can draft a note; it is whether the workflow is auditable, permissioned, and designed for a human decision-maker.</p><p><img src=\"assets/github-ai-wealth-management-for-financial-advisors-what-agentic-workflows-can-automate-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "What does an agentic AI workflow change for financial advisers?",
+      "section1": "It changes the sequence of work, not the duty of care. In the <a href=\"https://newsroom.accenture.com/blogs/2026/accenture-launches-accenture-trusted-wealth-ops-powered-by-salesforce-and-claude-to-help-wealth-advisors-deepen-client-relationships\">Accenture Trusted Wealth Ops</a> design, AI can synthesize approved client information, identify signals such as funding gaps or lifecycle events, draft follow-ups, and route exceptions. A person then reviews and approves the action. This is more valuable than isolated chat because it connects analysis to a controlled operating process: data access, recommendation, approval, execution, and an audit record.",
+      "quote": "",
+      "heading2": "Which financial tasks are credible candidates for AI automation?",
+      "section2": "Start with repetitive, document-heavy work that has clear inputs and review points: meeting notes, onboarding checklists, missing-document detection, report preparation, service requests, and first drafts of client communications. Fidelity Adviser Solutions reported on September 9 that 48% of surveyed advisers were using or implementing AI for meeting transcription and note generation, while 42% were doing so for report personalisation. These are efficiency use cases, not evidence that AI should independently determine suitability or make portfolio decisions.</p><p><strong>How should investors and firms evaluate an AI finance tool?</strong></p><p>Evaluate the <strong>control system</strong> before the model's fluency. Ask what data the tool can access, whether sources are approved and traceable, who can authorize a transaction or communication, how exceptions are escalated, and whether every material step is logged. Also test the tool on incomplete and conflicting client information. A polished answer is not a reliable recommendation if it cannot show the facts, constraints, and human reviewer behind it.</p><p><strong>Why is human judgment becoming more important, not less?</strong></p><p>Automation can create capacity, but capacity is only beneficial when it improves the quality of advice. A September 9 Cerulli-Vista study of 68 RIA firms found that 64% reported less manual and administrative work from AI and 46% cited better client communication; it also found that most surveyed firms expected to add adviser roles over the following two years. The durable advantage is therefore likely to come from advisers who use AI to prepare faster, challenge assumptions, explain trade-offs, and remain responsible for the final recommendation.</p><p><strong>A practical next step for AI-assisted market analysis</strong></p><p>Build one narrow workflow first, such as turning approved research and client records into a review-ready meeting brief. Define the source set, required disclosures, approval owner, error checks, and success metric before deployment. Then measure time saved, rework, exceptions, and client-facing quality. This approach treats AI as a financial efficiency tool with governance, rather than as an autonomous investment authority - a distinction that matters for both market analysis and trust.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "luminarys-22-million-ai-bet-why-wealth-transfer-is-becoming-a-data-infrastructur",
     "title": "Luminary’s $22 Million AI Bet: Why Wealth Transfer Is Becoming a Data Infrastructure Problem",
     "category": "Article",
