@@ -1,5 +1,26 @@
 [
   {
+    "id": "ai-systemic-risk-in-finance-how-firms-can-scale-ai-without-creating-fragile-depe",
+    "title": "AI Systemic Risk in Finance: How Firms Can Scale AI Without Creating Fragile Dependencies",
+    "category": "Article",
+    "summary": "Hello, I am Nivon. Financial firms can scale AI safely only when efficiency gains are paired with visible dependencies, human accountability, tested fallbacks, and rapid incident response. EIOPA's September 16, 2026…",
+    "readTime": "3 min",
+    "date": "2026-10-13",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Nivon. <strong>Financial firms can scale AI safely only when efficiency gains are paired with visible dependencies, human accountability, tested fallbacks, and rapid incident response.</strong> EIOPA's September 16, 2026 analysis frames the key issue clearly: AI is becoming embedded in fraud detection, customer service, claims management, and data analysis, but common providers and connected systems can turn a local technology failure into a wider operational or market problem. <a href=\"https://www.eiopa.europa.eu/publications/scaling-ai-finance-systemic-risks-resilience-and-european-sovereignty_en\\\">EIOPA's analysis of AI systemic risk in finance</a> is therefore useful not just for insurers, but for every investor, analyst, adviser, and finance team evaluating AI tools.</p><p><img src=\"assets/github-ai-systemic-risk-in-finance-how-firms-can-scale-ai-without-creating-fragile-depe-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "What makes AI adoption a systemic risk rather than a firm-level risk?",
+      "section1": "The direct answer is <strong>shared exposure</strong>. If many firms depend on the same cloud provider, model provider, software component, data feed, or automated decision pattern, an outage, security incident, policy change, or flawed output can affect them at the same time. EIOPA notes that AI can raise cyber and operational risk while increasing reliance on external providers and market interconnectedness. The danger is not that every AI workflow fails; it is that similar workflows may fail together when markets and operations are under stress.",
+      "quote": "",
+      "heading2": "Which AI-finance workflows deserve the strongest controls?",
+      "section2": "Prioritize workflows where an AI output can influence money movement, client suitability, risk limits, trading actions, financial reporting, or incident response. Start by mapping the complete chain: source data, model, prompts or rules, human reviewer, downstream system, and external provider. Then set clear approval thresholds. AI can summarize market news, identify research leads, and prepare scenario questions quickly, but it should not silently convert an uncertain narrative into an unreviewed investment conclusion or automated order.</p><p><strong>How should investors and finance teams assess an AI tool?</strong></p><p>Evaluate the tool as an operational system, not a chatbot demo. Ask whether outputs are traceable to source data, whether the workflow records changes and approvals, how confidential information is handled, and what happens if the model or connector becomes unavailable. A practical test is to run a realistic market-news or portfolio-review task with deliberately incomplete data, then inspect whether the tool identifies uncertainty, requests verification, and preserves a usable audit trail. Strong AI investment tools make the analyst faster while making the evidence easier to challenge.</p><p><strong>What should an AI resilience plan include?</strong></p><p>Build resilience into the operating model before expanding automation. Maintain provider and model inventories, test fallback processes, rehearse fast patching and recovery, and keep qualified people able to operate critical workflows manually. EIOPA highlights the value of mapping material dependencies, testing provider or model failures, verifying exit plans, and improving information-sharing. For an AI-assisted market-analysis or quantitative workflow, that means versioning strategies, preserving independent data checks, setting kill switches, and reviewing correlated behavior before scaling a signal across portfolios.</p><p>The actionable takeaway is simple: <strong>use AI to expand analytical capacity, not to hide accountability.</strong> The most durable finance teams will combine automation with evidence, oversight, diversified technology choices, and rehearsed recovery plans. That approach protects clients and operations while leaving room for AI to improve research speed, financial education, and decision quality.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "ai-in-finance-the-hidden-cost-of-trusting-fast-answers",
     "title": "AI in Finance: The Hidden Cost of Trusting Fast Answers",
     "category": "Article",
