@@ -1,5 +1,26 @@
 [
   {
+    "id": "agentic-ai-for-cash-flow-forecasting-what-finance-teams-should-evaluate-before-a",
+    "title": "Agentic AI for Cash Flow Forecasting: What Finance Teams Should Evaluate Before Automating Decisions",
+    "category": "Article",
+    "summary": "Agentic AI is most valuable in finance when it turns fragmented cash, credit, and operating data into a traceable decision workflow, not when it simply produces a more polished forecast. FIS launched its Agentic Insights…",
+    "readTime": "3 min",
+    "date": "2026-10-19",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "<strong>Agentic AI is most valuable in finance when it turns fragmented cash, credit, and operating data into a traceable decision workflow, not when it simply produces a more polished forecast.</strong> FIS launched its Agentic Insights Suite on October 12, 2026, positioning it as a hub for collections, liquidity, risk, and cash-flow analysis. For CFO teams and investors evaluating AI-finance tools, the practical test is whether the system improves the speed and quality of a controlled decision while preserving clear human accountability.</p><p><img src=\"assets/github-agentic-ai-for-cash-flow-forecasting-what-finance-teams-should-evaluate-before-a-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "What does FIS Agentic Insights Suite actually add to cash flow forecasting?",
+      "section1": "According to <a href=\"https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-equips-cfos-with-agentic-ai-to-forecast-cash-flow-and-surface-risk-earlier\">FIS Agentic Insights Suite</a>, the product connects internal ERP, treasury, and CRM data with external credit and public data. Its new forecasting module models cash across multiple time horizons and can test scenarios such as late customer payments or faster outflows. That matters because a static forecast reports an expected path, while scenario analysis helps a finance team ask what could break that path and which account or liquidity exposure deserves attention first.",
+      "quote": "",
+      "heading2": "How should a finance team distinguish useful AI automation from risky autonomy?",
+      "section2": "The answer is to separate <strong>recommendation, approval, and execution</strong>. An AI system may reconcile inputs, rank deteriorating accounts, generate a forecast range, and propose a collections action. A designated employee should still validate material assumptions, approve consequential actions, and own the exception process. This design reduces manual work without treating a model output as an unquestioned instruction. It also makes it easier to audit why a decision was made when data, market conditions, or model behavior change.</p><p><strong>Which metrics should buyers use to assess an AI cash management tool?</strong></p><p>Start with operational metrics that connect directly to the workflow: forecast error by time horizon, percentage of cash positions reconciled automatically, time required to investigate an exception, and the share of recommendations accepted, amended, or rejected by humans. Then test the data foundation. A tool should disclose source freshness, missing-data treatment, permissions, and the provenance of each recommendation. FIS says its suite provides real-time account scoring and a single reconciled view, but buyers should validate those capabilities with their own data and defined test cases rather than rely on a vendor claim alone.</p><p><strong>Why is this relevant to market analysis and investment research?</strong></p><p>Cash forecasting is a compact example of the broader shift toward AI-assisted financial decision systems. Strong systems combine data integration, forecasting, scenario analysis, workflow routing, and oversight; weak systems add a conversational layer to unreliable inputs. The same distinction applies to AI tools used for company research, portfolio monitoring, and quantitative signals. Investors should look past the word agentic and ask whether the product improves evidence quality, exposes uncertainty, and records who made the final decision.</p><p><strong>What is the next practical step for finance leaders?</strong></p><p>Choose one high-frequency, measurable cash workflow, such as prioritizing overdue receivables or reviewing a weekly liquidity forecast. Establish a baseline, define approval thresholds, run the AI process in parallel with the existing process, and review errors before allowing broader automation. The goal is not maximum autonomy. It is a dependable financial operating loop in which AI finds patterns and prepares choices while people retain authority over material financial decisions.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "wall-streets-ai-bet-why-the-next-financial-risk-may-come-from-both-lending-and-a",
     "title": "Wall Street’s AI Bet: Why the Next Financial Risk May Come From Both Lending and Automation",
     "category": "Article",
