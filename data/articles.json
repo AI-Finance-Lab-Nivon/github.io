@@ -1,5 +1,26 @@
 [
   {
+    "id": "ai-agents-in-banking-and-trading-why-controlled-automation-must-come-before-auto",
+    "title": "AI Agents in Banking and Trading: Why Controlled Automation Must Come Before Autonomous Execution",
+    "category": "Article",
+    "summary": "A practical framework for using agentic AI to improve financial workflows without handing over unbounded authority. The practical conclusion is simple: financial institutions should deploy AI agents first as tightly…",
+    "readTime": "3 min",
+    "date": "2026-10-28",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "A practical framework for using agentic AI to improve financial workflows without handing over unbounded authority.</p><p><strong>The practical conclusion is simple:</strong> financial institutions should deploy AI agents first as tightly bounded workflow assistants, not as unsupervised money movers. At an October 20 Axios event in Las Vegas, banking and trading leaders highlighted the same core issue: agentic systems may streamline commerce and operations, but reliability, liability, and regulation remain unresolved when software can initiate consequential financial actions.",
+      "heading1": "What changes when AI agents move from analysis to action?",
+      "section1": "The change is material. A conventional AI copilot summarizes research, drafts a client note, or flags an exception for a person to review. An agent can connect to tools, follow a multi-step plan, and attempt an action such as preparing a payment, rebalancing an account, or placing a trade. That makes agentic AI valuable for financial efficiency, but it also shifts the risk from an incorrect answer to an incorrect real-world outcome. <a href=\"https://www.axios.com/2026/10/22/axios-live-ai-agents-are-changing-how-money-moves\">AI agents in banking and trading</a> therefore need controls designed for execution, not only for content quality.",
+      "quote": "",
+      "heading2": "What must a finance team control before an AI agent can act?",
+      "section2": "The direct answer is <strong>identity, authority, limits, and evidence</strong>. Every agent should have a defined user or service identity, access only the tools and data required for its task, and operate within transaction limits that cannot be overridden by a prompt. High-impact actions should require human confirmation, while every recommendation, tool call, approval, and exception should create an auditable record. This design turns human oversight into an operating control rather than a ceremonial final check.</p><p><img src=\"assets/github-ai-agents-in-banking-and-trading-why-controlled-automation-must-come-before-auto-1.png\" alt=\"\" loading=\"lazy\"></p><p><strong>How should investors and quantitative teams use agentic AI today?</strong></p><p>Use agents to accelerate the path to a decision, not to erase the decision process. A market-analysis agent can collect earnings releases, compare stated guidance with prior periods, surface unusual moves, and prepare a research brief. A quantitative workflow can monitor data freshness, test whether inputs meet preset rules, and route a proposed order for approval. The useful boundary is clear: the agent may organize evidence and execute reversible, low-risk tasks, while a named person remains accountable for strategy changes, capital allocation, and live-trading exceptions.</p><p><strong>A practical implementation sequence for responsible financial automation</strong></p><p>Start with one repeatable workflow that has measurable delay or error costs, such as portfolio-review preparation or trade-break triage. Define the allowed inputs, tools, outputs, monetary thresholds, and escalation conditions before connecting the model to production systems. Test the workflow with simulated failures and incomplete data, then monitor its performance after launch. The goal is not maximum autonomy; it is <strong>verifiable financial productivity</strong>. Teams that can show who authorized an action, what data informed it, and how the system was stopped will be better positioned to scale AI safely.</p><p><strong>Sources and further reading</strong></p><p><a href=\"https://www.axios.com/2026/10/22/axios-live-ai-agents-are-changing-how-money-moves\">Axios Live: AI agents are changing how money moves</a> Directly examines AI agents in banking and trading, including reliability, liability, consumer delegation, and automated-trading risks.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "the-hidden-market-risk-behind-ais-next-phase",
     "title": "The Hidden Market Risk Behind AI’s Next Phase",
     "category": "Article",
