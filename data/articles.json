@@ -1,5 +1,26 @@
 [
   {
+    "id": "agentic-ai-in-banking-how-to-turn-pilot-projects-into-measurable-roi",
+    "title": "Agentic AI in Banking: How to Turn Pilot Projects Into Measurable ROI",
+    "category": "Article",
+    "summary": "Hello, I am Nivon. Agentic AI in banking creates measurable value when it improves one defined, data-rich workflow under clear controls, rather than being treated as a broad experiment. The immediate opportunity is not…",
+    "readTime": "3 min",
+    "date": "2026-11-17",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Nivon. <strong>Agentic AI in banking creates measurable value when it improves one defined, data-rich workflow under clear controls, rather than being treated as a broad experiment.</strong> The immediate opportunity is not autonomous banking everywhere; it is faster analysis, better-prepared decisions, and repeatable operations with accountable humans setting the limits.</p><p><img src=\"assets/github-agentic-ai-in-banking-how-to-turn-pilot-projects-into-measurable-roi-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "Why do AI banking pilots fail to reach ROI?",
+      "section1": "Most pilots fail to scale because usage is mistaken for value. Mambu reports that 52% of surveyed financial-services firms are actively adopting agentic AI, but only 23% have reached the scaling or transformation stage. The same article identifies weak data access, fragmented systems, and difficulty measuring outcomes as practical barriers. A useful pilot must therefore begin with a baseline: current turnaround time, exception rate, operating cost, or decision quality.",
+      "quote": "",
+      "heading2": "What is the best first use case for an AI agent?",
+      "section2": "Start with a workflow that is frequent, painful, and bounded. Examples include preparing a finance bridge report, triaging documents, summarizing an approved client file, or surfacing the data behind a credit or treasury review. The agent should initially have <strong>read-only access</strong>, a defined set of tools, and a clear escalation path. That design lets a bank test whether the output is useful before it lets software influence a transaction or customer outcome.</p><p><strong>How should banks measure agentic AI value?</strong></p><p>Measure the workflow, not the novelty of the model. Track cycle-time reduction, analyst capacity released, error and rework rates, exception-handling speed, adoption by the intended team, and the quality of human overrides. A strong review compares the new process with the prior process over the same period and records where the agent was wrong, uncertain, or unable to act. This makes <a href=\"https://mambu.com/en/insights/articles/agentic-ai-in-banking\">agentic AI in banking</a> an operating decision, not a presentation metric.</p><p><strong>Why are governance and data design the investment case?</strong></p><p>Governance is not separate from ROI because it determines whether a workflow can be trusted and repeated. The system needs role-based permissions, approved data sources, audit logs, evaluation tests, version control, and a human owner who can stop or override an action. Financial institutions that build these controls early can expand a proven workflow with less operational friction; those that postpone them may create impressive demonstrations that cannot enter production.</p><p><strong>The next step: build a controlled decision loop</strong></p><p>Choose one business process, define a success metric, map the data and permissions, and run the agent beside the existing process before granting it more authority. Review results with operations, risk, compliance, and the end users who make the final call. The durable advantage in AI-enabled finance will come from <strong>better decision systems</strong>: models accelerate preparation and pattern detection, while people retain responsibility for judgment, customer impact, and risk.</p><p><strong>Sources and further reading</strong></p><p><a href=\"https://mambu.com/en/insights/articles/agentic-ai-in-banking\">Agentic AI in Banking: how to get from AI adoption to ROI</a> Directly addresses adoption, ROI measurement, workflow selection, data quality, and governance for AI agents in banking.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "anthropics-ipo-the-ai-investment-story-beneath-the-hype",
     "title": "Anthropic’s IPO: The AI Investment Story Beneath the Hype",
     "category": "Article",
