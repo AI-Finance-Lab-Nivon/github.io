@@ -1,5 +1,26 @@
 [
   {
+    "id": "ai-finance-market-analysis-how-investors-can-evaluate-the-ai-buildout-without-ch",
+    "title": "AI Finance Market Analysis: How Investors Can Evaluate the AI Buildout Without Chasing the Narrative",
+    "category": "Article",
+    "summary": "Hello, I am Nivon. The key conclusion is that AI exposure should be analysed as a financing and concentration question, not simply as a technology-growth story. The European Central Bank's November 2026 Financial…",
+    "readTime": "3 min",
+    "date": "2026-11-20",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Nivon. <strong>The key conclusion is that AI exposure should be analysed as a financing and concentration question, not simply as a technology-growth story.</strong> The European Central Bank's November 2026 Financial Stability Review says AI has become a common source of vulnerability across markets as valuations and financing rise together. For investors and analysts, that means testing cash generation, funding needs, counterparty links, and portfolio overlap before treating an AI theme as a single trade.",
+      "heading1": "Why is AI finance market analysis changing?",
+      "section1": "The market is becoming more selective because the AI buildout is capital intensive. The <a href=\"https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.bg.html\">ECB Financial Stability Review</a> notes that free cash flow for most hyperscalers turned negative in 2026 as infrastructure spending exceeded operating cash flow, increasing reliance on external equity and debt funding. Its estimate of roughly USD 5.5 trillion in cumulative US big-tech capital expenditure by 2030 is a forecast, not a guaranteed outcome, but it shows why investors should track financing capacity alongside revenue growth.",
+      "quote": "",
+      "heading2": "What should an AI investment research workflow measure?",
+      "section2": "Start with a four-part dashboard: expected earnings growth, capital expenditure and free cash flow, debt and contractual commitments, and exposure concentration across equities and credit. The purpose is not to predict a single AI winner. It is to identify whether a portfolio depends on the same demand assumption in several places, such as semiconductor shares, cloud providers, data-centre lenders, and long-duration corporate bonds.</p><p><img src=\"assets/github-ai-finance-market-analysis-how-investors-can-evaluate-the-ai-buildout-without-ch-1.jpg\" alt=\"\" loading=\"lazy\"></p><p><strong>How can AI tools improve the analysis without replacing judgment?</strong></p><p>Use AI to summarize filings, reconcile earnings-call claims with cash-flow trends, classify issuers by business role, and flag changes in leverage or guidance. Keep the final decision rule explicit and reviewable: the model can surface evidence, but a human should validate source quality, distinguish forecasts from reported results, and set risk limits. This makes AI a financial-efficiency tool rather than an unmonitored investment decision-maker.</p><p><strong>Which market signals deserve attention now?</strong></p><p>Price moves alone are not enough. Nasdaq reported on November 13 that neocloud and semiconductor proxies were down 39% and 24%, respectively, from the October 6 US equity highs as of November 10. That kind of dispersion is useful evidence that the AI trade is not uniform. Pair market performance with bond-spread behaviour, new debt issuance, order-book demand, and each company's ability to fund projects without weakening its balance sheet.</p><p><strong>What is the practical next step for investors and finance teams?</strong></p><p>Build a repeatable AI exposure review for every portfolio or research list: map direct and indirect exposure, record the financing assumptions, define a downside scenario for slower AI demand, and document what would change the thesis. The durable advantage is not faster reaction to headlines; it is a clear process that connects AI adoption, corporate cash flows, credit conditions, and risk controls.</p><p><strong>Sources and further reading</strong></p><p><a href=\"https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.bg.html\">Financial Stability Review, November 2026</a> Primary central-bank analysis of AI-linked valuation, financing, concentration, and financial-stability risk, with directly usable market-analysis facts.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "anthropics-ipo-is-more-than-an-ai-listing-it-is-a-stress-test-for-the-entire-ai",
     "title": "Anthropic’s IPO Is More Than an AI Listing: It Is a Stress Test for the Entire AI Economy",
     "category": "Article",
